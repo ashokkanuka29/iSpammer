@@ -1,4 +1,4 @@
-# iSpammer
+# ASHOK KANUKA ATTACK 
 
 <b>Introducing iSpammer Created by Mr. SparX
 It's a SMS Bomber only For Indian Numbers
@@ -16,7 +16,7 @@ python3 iSpammer.py -m Number_of_messages -t target's_mobile_number
 <br>For Example:<br>
 
 ```
-python3 iSpammer.py -m 100 -t 9797979797
+python3 ashok.py -m 100 -t 9797979797
 ```
 
 <br><br>
