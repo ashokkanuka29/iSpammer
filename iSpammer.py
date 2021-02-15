@@ -20,14 +20,14 @@ def check():
 def banner():
     os.system('''
 	figlet -c -k  I-Spam
-	echo  "                                                         - T34M SP4RKy"
+	echo  "                                                         - ASHOK KANUKA"
 	printf " "
 	printf "\e[1;32m                      .:.:.\e[0m\e[1;95m OTP && CALL bombing tool  \e[0m\e[1;32m.:.:.\e[0m\n"
-	printf "\e[1;32m               .:.:.\e[0m\e[1;95m made by \e[31m Mr. Sparxx, Kush_xx27, Brijesh\e[0m \e[0m\e[1;32m.:.:.\e[0m\n"
+	printf "\e[1;32m               .:.:.\e[0m\e[1;95m made by \e[31m Mr.  ASHOK KANUKA \e[0m \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\e[1;32m       .:.:.\e[0m\e[1;95m If you Came Here to Copy CODE then you are an ASSHOLE \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\n"
 	printf "          \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"
-	printf "            \e[101m\e[1;77m:: responsible for any misuse or damage caused by I-Spam ::\e[0m\n"
+	printf "            \e[101m\e[1;77m:: responsible for any misuse or damage caused by ASHOK KANUKA ::\e[0m\n"
 	printf "\n"
 	''')
 
