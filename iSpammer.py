@@ -22,7 +22,7 @@ def banner():
 	figlet -c -k  I-Spam
 	echo  "                                                         - ASHOK KANUKA"
 	printf " "
-	printf "\e[1;32m                      .:.:.\e[0m\e[1;95m OTP && CALL bombing tool  \e[0m\e[1;32m.:.:.\e[0m\n"
+	printf "\e[1;32m                      .:.:.\e[0m\e[1;95m OTP && CALL bombing tool PLZ BE CAREFUL \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\e[1;32m               .:.:.\e[0m\e[1;95m made by \e[31m Mr.  ASHOK KANUKA \e[0m \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\e[1;32m       .:.:.\e[0m\e[1;95m If you Came Here to Copy CODE then you are an ASSHOLE \e[0m\e[1;32m.:.:.\e[0m\n"
 	printf "\n"
